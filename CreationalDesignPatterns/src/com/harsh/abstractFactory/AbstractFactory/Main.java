@@ -7,6 +7,7 @@ public class Main {
 		
 		System.out.println(card.getClass());
 		
+		
 		abstractFactory=CreditCardFactory.getCreditCard(20);
 		card=abstractFactory.getCreditCard(CardType.PLATINUM);
 		
