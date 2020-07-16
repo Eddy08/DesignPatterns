@@ -1,4 +1,4 @@
-package com.harsh.singelton.threadSafe;
+package com.harsh.singleton.threadSafe;
 
 import javax.management.RuntimeErrorException;
 

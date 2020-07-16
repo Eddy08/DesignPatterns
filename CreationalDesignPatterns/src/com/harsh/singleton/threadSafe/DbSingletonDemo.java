@@ -1,4 +1,4 @@
-package com.harsh.singelton.threadSafe;
+package com.harsh.singleton.threadSafe;
 
 public class DbSingletonDemo {
 
